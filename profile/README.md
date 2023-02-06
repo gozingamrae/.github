@@ -1,30 +1,84 @@
-# mainboard
-- 프로젝트 소개
-## 프로젝트 아키텍처
-- 아키텍처 이미지
+# 🎲 mainboard 🎲
 
-## 프로젝트 사용기술 및 개발 환경
-- 사용 기술, 개발 환경
-(자세하게 할 거면 버전까지)
+- 단기간 보드 게임 이용을 필요로 하는 사용자들을 위해 보드 게임 재고를 확보하여 대여 해주는 서비스입니다.
+- 보드 게임 카페 이용이 어려운 사용자 혹은 개인적인 공간에서 보드 게임을  즐기고 싶으나, 구매하기에는 부담스러운 사용자들을 위해 다양한 보드 게임 대여 서비스를 제공합니다.
+- 보다 자세한 내용은 [WIKI](https://github.com/gozingamrae/.github/wiki)에서 확인할 수 있습니다.
 
-## 프로젝트 진행 방식
+## 🕹️프로젝트 팀원 별 역할
+
+권용희(DBA), 박지희(형상관리), 손준형(PM), 이유리(형상관리), 조동후(팀장, DBA), 차용준(DBA)
+
+## 🕹️프로젝트 아키텍처
+![Untitled](https://user-images.githubusercontent.com/67030031/217006366-0877207f-00fd-4c85-a5d6-1dc9410b5d27.png)
+
+## 🕹️프로젝트 사용 기술 및 개발 환경
+
+![Untitled (1)](https://user-images.githubusercontent.com/67030031/217006450-078c9a80-46a9-4298-9afa-59fc51a2c15c.png)
+
+## 🕹️프로젝트 진행 방식
+
 ### 협업 방식
+
+- Notion을 이용하여 프로젝트 진척률을 관리했습니다.
+- 이슈 관리 페이지를 만들어 이슈를 공유하고 해결 방법을 같이 고민했습니다.
+- 매일 개발 일지를 작성하여 업무와 이슈를 공유하여 효율적으로 프로젝트를 진행했습니다.
 
 ### 브랜치 전략
 
-### 코드 컨벤션
+- Github Flow를 바탕으로 브랜치를 관리하여 협업을 진행했습니다.
 
-## 프로젝트 기획
-- 업무 분석(시장조사), WBS(계획수립), 사용자 시나리오, 메뉴 구조도, 화면 정의, 회의록(기획을 위한) 등
+### 코딩 컨벤션
 
-## 프로젝트 설계
-- 엔터티 도출, ERD, 물리 모델, 테이블 정의, RESTAPI 설계
+- 유지 및 보수, 협업 시 가독성을 위한 코딩 컨벤션을 정의하였습니다.
+- HTML, CSS, JS는 VSCode의 프리티어 확장 프로그램을 사용했습니다.
+- JAVA 코딩 컨벤션
+- 오라클 코딩 컨벤션
 
-## 프로젝트 개발 과정
-- 개발진행사항(진척률 관리), 개발업무일지(소통), 형상 관리, 이슈 관리,  DB 유지 보수(DB 추가, 제거, 수정 로그 관리)
+## 🕹️프로젝트 기획
 
-## 시연
-- 혹은 프로토타이핑 주소(피그마)라도
+### 시장 조사 및 프로그램 분석
 
-## 이외
-- 팀원소개, 팀원 역할 등 위키로 작성하면 좋을듯
+- 시장의 요구를 파악하고 기획의 완성도를 높이기 위해 시장 분석 및 유사 프로그램 분석을 하였습니다.
+
+![Untitled (2)](https://user-images.githubusercontent.com/67030031/217006729-214b4b6d-0a1e-4b5f-9012-906c043775df.png)
+
+
+### WBS
+
+- 정해진 기한 내 체계적으로 진행하기 위해 업무 단위로 프로젝트를 가시화 했습니다.
+
+### 주요 기능
+
+![Untitled (3)](https://user-images.githubusercontent.com/67030031/217006916-dba32ff3-782e-4504-846c-4f59a69f82b4.png)
+![Untitled (4)](https://user-images.githubusercontent.com/67030031/217006974-dc983d3b-3d1a-459a-a733-0e255fee0422.png)
+
+## 🕹️프로젝트 설계
+
+### 논리 데이터베이스 모델
+
+![Untitled (5)](https://user-images.githubusercontent.com/67030031/217007024-5bed2b21-8c7f-4445-bcce-4090a27ba866.png)
+
+### 물리 데이터베이스 모델
+
+![Untitled (6)](https://user-images.githubusercontent.com/67030031/217007072-cb6a05cb-7f0d-4d69-954c-264231378bca.png)
+
+## 🕹️프로젝트 개발 과정
+
+### 프로젝트 진척률
+
+![Untitled (7)](https://user-images.githubusercontent.com/67030031/217007186-b4b16639-d4cf-48e4-a6f2-2872014ad205.png)
+
+### DB 유지 보수
+
+![Untitled (8)](https://user-images.githubusercontent.com/67030031/217007257-7302f9ca-bd8e-4513-832b-1ec9520a3a57.png)
+
+## 🕹️프로토타입
+
+- [프로토타입 보러가기](https://www.figma.com/proto/MEaa3grkgKMzn7r1SnriOL/BoardGame?node-id=960%3A240&scaling=min-zoom&page-id=946%3A2243&starting-point-node-id=960%3A240&show-proto-sidebar=1)
+
+## 🕹️협업 레퍼지토리
+
+- [Web Frontend(Admin)](https://github.com/gozingamrae/mainboard-frontend-management)
+- [Web Frontend(User)](https://github.com/gozingamrae/mainboard-frontend-service)
+- [Backend](https://github.com/gozingamrae/mainboard-backend)
+- [Wiki](https://github.com/gozingamrae/.github/wiki)
