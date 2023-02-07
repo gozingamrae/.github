@@ -26,13 +26,17 @@
 ### 브랜치 전략
 
 - Github Flow를 바탕으로 브랜치를 관리하여 협업을 진행했습니다.
+- 브랜치 규칙, commit 규칙을 정하여 형상관리를 하였습니다.
+- 형상관리 담당자가 팀원에게 적용할 규칙 및 전략을 교육했습니다.
+- [형상관리](https://github.com/gozingamrae/.github/wiki/%F0%9F%90%B1%ED%98%95%EC%83%81%EA%B4%80%EB%A6%AC)
+- [교육자료](https://github.com/gozingamrae/.github/wiki/%F0%9F%98%B8-git-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
 
 ### 코딩 컨벤션
 
 - 유지 및 보수, 협업 시 가독성을 위한 코딩 컨벤션을 정의하였습니다.
 - HTML, CSS, JS는 VSCode의 프리티어 확장 프로그램을 사용했습니다.
-- JAVA 코딩 컨벤션
-- 오라클 코딩 컨벤션
+- [JAVA 코딩 컨벤션](https://github.com/gozingamrae/.github/wiki/%E2%AD%90-JAVA-%EC%BD%94%EB%94%A9-%EC%BB%A8%EB%B2%A4%EC%85%98)
+- [오라클 코딩 컨벤션](https://github.com/gozingamrae/.github/wiki/%E2%AD%95%EF%B8%8F%EC%98%A4%EB%9D%BC%ED%81%B4-%EC%BB%A8%EB%B2%A4%EC%85%98)
 
 ## 🕹️프로젝트 기획
 
