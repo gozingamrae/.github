@@ -23,8 +23,9 @@
 ### 협업 방식
 
 - Notion을 이용하여 프로젝트 진척률을 관리했습니다.
-- 이슈 관리 페이지를 만들어 이슈를 공유하고 해결 방법을 같이 고민했습니다.
+- [이슈 관리](https://github.com/gozingamrae/.github/wiki/%F0%9F%98%B5-%EC%9D%B4%EC%8A%88%EA%B4%80%EB%A6%AC) 페이지를 만들어 이슈를 공유하고 해결 방법을 같이 고민했습니다.
 - 매일 개발 일지를 작성하여 업무와 이슈를 공유하여 효율적으로 프로젝트를 진행했습니다.
+- [회의록 및 개발일지](https://github.com/gozingamrae/.github/wiki/%F0%9F%93%85-%ED%9A%8C%EC%9D%98%EB%A1%9D-%EB%B0%8F-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80)
 
 ### 브랜치 전략
 
@@ -46,7 +47,8 @@
 ### 시장 조사 및 프로그램 분석
 
 - 시장의 요구를 파악하고 기획의 완성도를 높이기 위해 시장 분석 및 유사 프로그램 분석을 하였습니다.
-
+- [시장조사 및 유사 프로그램 분석](https://github.com/gozingamrae/.github/wiki/%E2%9D%93-%EC%8B%9C%EC%9E%A5-%EC%A1%B0%EC%82%AC-%EB%B0%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EB%B6%84%EC%84%9D)
+- [업무분석](https://github.com/gozingamrae/.github/wiki/%F0%9F%92%A1-%EC%97%85%EB%AC%B4-%EB%B6%84%EC%84%9D)
 ![Untitled (2)](https://user-images.githubusercontent.com/67030031/217006729-214b4b6d-0a1e-4b5f-9012-906c043775df.png)
 
 
@@ -54,7 +56,7 @@
 
 - 정해진 기한 내 체계적으로 진행하기 위해 업무 단위로 프로젝트를 가시화 했습니다.
 
-### 주요 기능
+### [주요 기능](https://github.com/gozingamrae/.github/wiki/%F0%9F%92%BB-%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5)
 
 ![Untitled (3)](https://user-images.githubusercontent.com/67030031/217006916-dba32ff3-782e-4504-846c-4f59a69f82b4.png)
 ![Untitled (4)](https://user-images.githubusercontent.com/67030031/217006974-dc983d3b-3d1a-459a-a733-0e255fee0422.png)
@@ -75,7 +77,7 @@
 
 ![Untitled (7)](https://user-images.githubusercontent.com/67030031/217007186-b4b16639-d4cf-48e4-a6f2-2872014ad205.png)
 
-### DB 유지 보수
+### [DB 유지 보수](https://github.com/gozingamrae/.github/wiki/%E2%9B%91-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%9C%A0%EC%A7%80%EB%B3%B4%EC%88%98)
 
 ![Untitled (8)](https://user-images.githubusercontent.com/67030031/217007257-7302f9ca-bd8e-4513-832b-1ec9520a3a57.png)
 
